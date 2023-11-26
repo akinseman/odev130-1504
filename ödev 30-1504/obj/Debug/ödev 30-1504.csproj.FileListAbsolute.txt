@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\semanuraki\ödev 30-1504\ödev 30-1504\obj\Debug\ödev 30-1504.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\semanuraki\ödev 30-1504\ödev 30-1504\obj\Debug\ödev_30_1504.Form1.resources
+C:\Users\User\Desktop\semanuraki\ödev 30-1504\ödev 30-1504\obj\Debug\ödev_30_1504.Properties.Resources.resources
+C:\Users\User\Desktop\semanuraki\ödev 30-1504\ödev 30-1504\obj\Debug\ödev 30-1504.csproj.GenerateResource.cache
+C:\Users\User\Desktop\semanuraki\ödev 30-1504\ödev 30-1504\obj\Debug\ödev 30-1504.csproj.CoreCompileInputs.cache
